@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/veer714/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/veer714/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/veer714/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/veer714/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0904-fruit-into-baskets](https://github.com/veer714/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/veer714/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/veer714/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
