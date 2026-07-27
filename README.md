@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/veer714/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/veer714/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/veer714/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/veer714/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/veer714/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/veer714/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -74,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/veer714/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/veer714/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
