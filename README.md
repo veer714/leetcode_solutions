@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/veer714/leetcode_solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/veer714/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/veer714/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/veer714/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/veer714/leetcode_solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/veer714/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/veer714/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/veer714/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
