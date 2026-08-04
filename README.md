@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/veer714/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/veer714/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/veer714/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/veer714/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/veer714/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/veer714/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/veer714/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/veer714/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/veer714/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/veer714/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/veer714/leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/veer714/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/veer714/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/veer714/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/veer714/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/veer714/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/veer714/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/veer714/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Prefix Sum
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/veer714/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/veer714/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/veer714/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/veer714/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/veer714/leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/veer714/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
