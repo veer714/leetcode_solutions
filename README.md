@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/veer714/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/veer714/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/veer714/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/veer714/leetcode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/veer714/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/veer714/leetcode_solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/veer714/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/veer714/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/veer714/leetcode_solutions/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
