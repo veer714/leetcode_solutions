@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/veer714/leetcode_solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/veer714/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/veer714/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/veer714/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/veer714/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/veer714/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/veer714/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/veer714/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/veer714/leetcode_solutions/tree/master/0704-binary-search) |
