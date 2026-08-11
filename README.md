@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/veer714/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/veer714/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/veer714/leetcode_solutions/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/veer714/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/veer714/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/veer714/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/veer714/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/veer714/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/veer714/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/veer714/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/veer714/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/veer714/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/veer714/leetcode_solutions/tree/master/0567-permutation-in-string) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/veer714/leetcode_solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/veer714/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/veer714/leetcode_solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
