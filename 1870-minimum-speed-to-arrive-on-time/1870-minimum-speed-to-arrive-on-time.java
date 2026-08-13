@@ -1,10 +1,7 @@
 class Solution {
     public int minSpeedOnTime(int[] dist, double hour) {
         int low = 1;
-        int high = 0;
-        for(int d:dist){
-            high = Math.max(high,d);
-        }
+        int high = (int)(1e7);
         
         int ans = -1;
         while(low<=high){
@@ -18,16 +15,17 @@ class Solution {
         }
         return ans;
     }
-    private boolean canreach(int[] dist,double hours,int speed){
-        double time = 0.0;
-        for(int i = 0;i<dist.length;i++){
-            double t = (double)dist[i]/speed;
-            if( i != dist.length-1){
-            time += Math.ceil(t);
-            }else{
-                time+= t;
-            }
+
+  private boolean canreach(int[] dist, double hours, int speed) {
+    double time = 0.0;
+    for (int i = 0; i < dist.length; i++) {
+        if (i != dist.length - 1) {
+            time += (dist[i] + speed - 1) / speed; 
+        } else {
+            time += (double) dist[i] / speed; 
         }
-        return time <= hours;
+        if (time > hours) return false; 
     }
+    return time <= hours;
+}
 }
