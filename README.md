@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/veer714/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/veer714/leetcode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/veer714/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0733-flood-fill](https://github.com/veer714/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/veer714/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/veer714/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/veer714/leetcode_solutions/tree/master/0877-stone-game) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/veer714/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/veer714/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/veer714/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0733-flood-fill](https://github.com/veer714/leetcode_solutions/tree/master/0733-flood-fill) |
 | [1314-matrix-block-sum](https://github.com/veer714/leetcode_solutions/tree/master/1314-matrix-block-sum) |
 ## Divide and Conquer
 |  |
@@ -210,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/veer714/leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/veer714/leetcode_solutions/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/veer714/leetcode_solutions/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
