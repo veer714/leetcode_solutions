@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/veer714/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/veer714/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/veer714/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/veer714/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/veer714/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/veer714/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/veer714/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/veer714/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/veer714/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/veer714/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/veer714/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/veer714/leetcode_solutions/tree/master/0733-flood-fill) |
@@ -215,16 +217,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/veer714/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/veer714/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/veer714/leetcode_solutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/veer714/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/veer714/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/veer714/leetcode_solutions/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/veer714/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/veer714/leetcode_solutions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
