@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/veer714/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/veer714/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/veer714/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/veer714/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/veer714/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/veer714/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/veer714/leetcode_solutions/tree/master/0162-find-peak-element) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/veer714/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/veer714/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/veer714/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/veer714/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/veer714/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/veer714/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/veer714/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/veer714/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/veer714/leetcode_solutions/tree/master/0733-flood-fill) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/veer714/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/veer714/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/veer714/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/veer714/leetcode_solutions/tree/master/0733-flood-fill) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/veer714/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/veer714/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/veer714/leetcode_solutions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
