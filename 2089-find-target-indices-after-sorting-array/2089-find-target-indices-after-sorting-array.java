@@ -6,14 +6,6 @@ class Solution {
         for(int i = 0;i<n;i++){
             if(nums[i] == target){
                 result.add(i);
-                for(int j = i+1;j<n;j++){
-                    if(nums[j] == target){
-                    result.add(j);
-                    }else{
-                        break;
-                    }
-                }
-                break;
             }
         }
         return result;
