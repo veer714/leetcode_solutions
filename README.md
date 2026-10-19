@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/veer714/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/veer714/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/veer714/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [2360-longest-cycle-in-a-graph](https://github.com/veer714/leetcode_solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/veer714/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/veer714/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/veer714/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [2360-longest-cycle-in-a-graph](https://github.com/veer714/leetcode_solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/veer714/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/veer714/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/veer714/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [2360-longest-cycle-in-a-graph](https://github.com/veer714/leetcode_solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -267,4 +270,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/veer714/leetcode_solutions/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/veer714/leetcode_solutions/tree/master/2360-longest-cycle-in-a-graph) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/veer714/leetcode_solutions/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/veer714/leetcode_solutions/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
